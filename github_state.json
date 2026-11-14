@@ -1,24 +1,31 @@
 {
-  "generated_at": "2026-11-14T15:46:33.888110+00:00",
+  "generated_at": "2026-11-14T15:59:04Z",
   "repository": "PIRAMIDEXYZ/agile-final-project",
   "repository_url": "https://github.com/PIRAMIDEXYZ/agile-final-project",
   "default_branch": "main",
   "simulation_academica": true,
   "software_funcional": false,
   "assignee": "PIRAMIDEXYZ",
+  "all_github_issues_open": true,
+  "all_github_issues_assigned_to": "PIRAMIDEXYZ",
   "labels": {
     "enhancement": "Histórias 1 a 8",
     "technical debt": "Histórias 9 e 10"
   },
+  "label_translations": {
+    "enhancement": "Melhoria ou funcionalidade",
+    "technical debt": "Dívida técnica"
+  },
   "milestone": {
     "number": 1,
-    "title": "Sprint duas semanas",
+    "title": "Sprint",
     "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/milestone/1",
     "state": "open",
-    "start_date": "2026-11-14",
-    "due_date": "2026-11-28",
-    "due_on": "2026-11-28T00:00:00Z",
-    "scope": "Somente requisitos 1 a 4"
+    "start_date": "2026-11-09",
+    "due_date": "2026-11-22",
+    "due_on": "2026-11-22T00:00:00Z",
+    "description": "Sprint acadêmico de duas semanas: 09/11/2026 a 22/11/2026, conforme ciclo nativo ZenHub. Planejamento e execução simulada registrados em 14/11/2026. Meta: operações básicas CRUD do catálogo; sem implementação de software.",
+    "scope": "Histórias 1 a 4 na milestone; quadro ZenHub inclui as histórias 1 a 10"
   },
   "issues": [
     {
@@ -35,10 +42,12 @@
       ],
       "milestone": {
         "number": 1,
-        "title": "Sprint duas semanas"
+        "title": "Sprint"
       },
       "expected_label": "enhancement",
-      "expected_milestone_number": 1
+      "expected_milestone_number": 1,
+      "zenhub_column": "Done",
+      "zenhub_points": 3
     },
     {
       "requirement": 2,
@@ -54,10 +63,12 @@
       ],
       "milestone": {
         "number": 1,
-        "title": "Sprint duas semanas"
+        "title": "Sprint"
       },
       "expected_label": "enhancement",
-      "expected_milestone_number": 1
+      "expected_milestone_number": 1,
+      "zenhub_column": "Done",
+      "zenhub_points": 2
     },
     {
       "requirement": 3,
@@ -73,10 +84,12 @@
       ],
       "milestone": {
         "number": 1,
-        "title": "Sprint duas semanas"
+        "title": "Sprint"
       },
       "expected_label": "enhancement",
-      "expected_milestone_number": 1
+      "expected_milestone_number": 1,
+      "zenhub_column": "In Progress",
+      "zenhub_points": 3
     },
     {
       "requirement": 4,
@@ -92,10 +105,12 @@
       ],
       "milestone": {
         "number": 1,
-        "title": "Sprint duas semanas"
+        "title": "Sprint"
       },
       "expected_label": "enhancement",
-      "expected_milestone_number": 1
+      "expected_milestone_number": 1,
+      "zenhub_column": "Sprint Backlog",
+      "zenhub_points": 2
     },
     {
       "requirement": 5,
@@ -111,7 +126,9 @@
       ],
       "milestone": null,
       "expected_label": "enhancement",
-      "expected_milestone_number": null
+      "expected_milestone_number": null,
+      "zenhub_column": "Product Backlog",
+      "zenhub_points": null
     },
     {
       "requirement": 6,
@@ -127,7 +144,9 @@
       ],
       "milestone": null,
       "expected_label": "enhancement",
-      "expected_milestone_number": null
+      "expected_milestone_number": null,
+      "zenhub_column": "Product Backlog",
+      "zenhub_points": null
     },
     {
       "requirement": 7,
@@ -143,7 +162,9 @@
       ],
       "milestone": null,
       "expected_label": "enhancement",
-      "expected_milestone_number": null
+      "expected_milestone_number": null,
+      "zenhub_column": "Icebox",
+      "zenhub_points": null
     },
     {
       "requirement": 8,
@@ -159,7 +180,9 @@
       ],
       "milestone": null,
       "expected_label": "enhancement",
-      "expected_milestone_number": null
+      "expected_milestone_number": null,
+      "zenhub_column": "Icebox",
+      "zenhub_points": null
     },
     {
       "requirement": 9,
@@ -175,7 +198,9 @@
       ],
       "milestone": null,
       "expected_label": "technical debt",
-      "expected_milestone_number": null
+      "expected_milestone_number": null,
+      "zenhub_column": "Product Backlog",
+      "zenhub_points": null
     },
     {
       "requirement": 10,
@@ -191,13 +216,76 @@
       ],
       "milestone": null,
       "expected_label": "technical debt",
-      "expected_milestone_number": null
+      "expected_milestone_number": null,
+      "zenhub_column": "Product Backlog",
+      "zenhub_points": null
     }
   ],
+  "zenhub": {
+    "simulation": true,
+    "execution_simulated_on": "2026-11-14",
+    "native_sprint": {
+      "name": "Sprint",
+      "display_name": "Sprint: Nov 9 - Nov 22, 2026",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-22"
+    },
+    "workspace_url": "https://app.zenhub.com/workspaces/projeto-final-6af881d4f5439b0016cfa1a3/board",
+    "burndown_url": "https://app.zenhub.com/workspaces/projeto-final-6af881d4f5439b0016cfa1a3/reports/burndown?milestoneId=Z2lkOi8vcmFwdG9yL1NwcmludC81Mzk4MTE3&selectedPipelines=Z2lkOi8vcmFwdG9yL1BpcGVsaW5lLzM2MDU1MDA",
+    "columns": {
+      "Icebox": [
+        7,
+        8
+      ],
+      "Product Backlog": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "Sprint Backlog": [
+        4
+      ],
+      "In Progress": [
+        3
+      ],
+      "Review/QA": [],
+      "Done": [
+        1,
+        2
+      ]
+    },
+    "column_translations": {
+      "Icebox": "Itens em espera / não priorizados",
+      "Product Backlog": "Backlog do produto",
+      "Sprint Backlog": "Backlog da Sprint",
+      "In Progress": "Em andamento",
+      "Review/QA": "Revisão / garantia de qualidade",
+      "Done": "Concluído somente na simulação do quadro"
+    },
+    "planned_points": {
+      "1": 3,
+      "2": 2,
+      "3": 3,
+      "4": 2
+    },
+    "total_planned_points": 10,
+    "burndown": {
+      "burn_pipeline": "Done",
+      "completed_points": 5,
+      "remaining_points": 5,
+      "total_points": 10,
+      "completed_issues_simulation": 2,
+      "total_issues_in_sprint": 4,
+      "remaining_issues_simulation": 2,
+      "simulation_only": true,
+      "note": "Done é uma posição simulada do quadro; as quatro issues da Sprint permanecem abertas no GitHub e não há software implementado."
+    }
+  },
   "content_commits": {
     ".github/ISSUE_TEMPLATE/user-story.md": "b1e1ac2e1b3edcfc69abce1c37323a281737056b",
-    "README.md": "cfe51dab41c70795e3136ab0da0771347e07aa4f"
+    "README.md": "8fca401dc15b1f87526fb659d6b24fe27a816579"
   },
-  "zenhub_used": false,
+  "zenhub_used": true,
   "browser_used": false
 }
