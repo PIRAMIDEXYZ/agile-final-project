@@ -1,0 +1,203 @@
+{
+  "generated_at": "2026-11-14T15:46:33.888110+00:00",
+  "repository": "PIRAMIDEXYZ/agile-final-project",
+  "repository_url": "https://github.com/PIRAMIDEXYZ/agile-final-project",
+  "default_branch": "main",
+  "simulation_academica": true,
+  "software_funcional": false,
+  "assignee": "PIRAMIDEXYZ",
+  "labels": {
+    "enhancement": "Histórias 1 a 8",
+    "technical debt": "Histórias 9 e 10"
+  },
+  "milestone": {
+    "number": 1,
+    "title": "Sprint duas semanas",
+    "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/milestone/1",
+    "state": "open",
+    "start_date": "2026-11-14",
+    "due_date": "2026-11-28",
+    "due_on": "2026-11-28T00:00:00Z",
+    "scope": "Somente requisitos 1 a 4"
+  },
+  "issues": [
+    {
+      "requirement": 1,
+      "number": 1,
+      "title": "História 1: Criar produto",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/1",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": {
+        "number": 1,
+        "title": "Sprint duas semanas"
+      },
+      "expected_label": "enhancement",
+      "expected_milestone_number": 1
+    },
+    {
+      "requirement": 2,
+      "number": 2,
+      "title": "História 2: Recuperar produto",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/2",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": {
+        "number": 1,
+        "title": "Sprint duas semanas"
+      },
+      "expected_label": "enhancement",
+      "expected_milestone_number": 1
+    },
+    {
+      "requirement": 3,
+      "number": 3,
+      "title": "História 3: Atualizar produto",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/3",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": {
+        "number": 1,
+        "title": "Sprint duas semanas"
+      },
+      "expected_label": "enhancement",
+      "expected_milestone_number": 1
+    },
+    {
+      "requirement": 4,
+      "number": 4,
+      "title": "História 4: Excluir produto",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/4",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": {
+        "number": 1,
+        "title": "Sprint duas semanas"
+      },
+      "expected_label": "enhancement",
+      "expected_milestone_number": 1
+    },
+    {
+      "requirement": 5,
+      "number": 5,
+      "title": "História 5: Curtir produto",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/5",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": null,
+      "expected_label": "enhancement",
+      "expected_milestone_number": null
+    },
+    {
+      "requirement": 6,
+      "number": 6,
+      "title": "História 6: Descurtir produto",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/6",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": null,
+      "expected_label": "enhancement",
+      "expected_milestone_number": null
+    },
+    {
+      "requirement": 7,
+      "number": 7,
+      "title": "História 7: Listar todos os produtos",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/7",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": null,
+      "expected_label": "enhancement",
+      "expected_milestone_number": null
+    },
+    {
+      "requirement": 8,
+      "number": 8,
+      "title": "História 8: Consultar subconjunto de produtos",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/8",
+      "state": "open",
+      "labels": [
+        "enhancement"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": null,
+      "expected_label": "enhancement",
+      "expected_milestone_number": null
+    },
+    {
+      "requirement": 9,
+      "number": 9,
+      "title": "História 9: Hospedar a aplicação na nuvem",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/9",
+      "state": "open",
+      "labels": [
+        "technical debt"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": null,
+      "expected_label": "technical debt",
+      "expected_milestone_number": null
+    },
+    {
+      "requirement": 10,
+      "number": 10,
+      "title": "História 10: Automatizar a implantação",
+      "url": "https://github.com/PIRAMIDEXYZ/agile-final-project/issues/10",
+      "state": "open",
+      "labels": [
+        "technical debt"
+      ],
+      "assignees": [
+        "PIRAMIDEXYZ"
+      ],
+      "milestone": null,
+      "expected_label": "technical debt",
+      "expected_milestone_number": null
+    }
+  ],
+  "content_commits": {
+    ".github/ISSUE_TEMPLATE/user-story.md": "b1e1ac2e1b3edcfc69abce1c37323a281737056b",
+    "README.md": "cfe51dab41c70795e3136ab0da0771347e07aa4f"
+  },
+  "zenhub_used": false,
+  "browser_used": false
+}
