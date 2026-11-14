@@ -9,7 +9,7 @@ de uma Sprint.
 
 > **Aviso:** este projeto não contém software funcional. Os itens abaixo representam
 > requisitos e atividades de planejamento; não há API, banco de dados, interface,
-hospedagem ou pipeline de implantação implementados neste repositório.
+> hospedagem ou pipeline de implantação implementados neste repositório.
 
 ## Backlog simulado
 
