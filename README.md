@@ -101,3 +101,13 @@ das issues, a milestone, as etiquetas, o estado simulado do quadro ZenHub, as
 estimativas e os vínculos planejados no momento da configuração. O template em
 [`.github/ISSUE_TEMPLATE/user-story.md`](.github/ISSUE_TEMPLATE/user-story.md)
 mantém o padrão para novas histórias.
+
+### Sobre o material e autoria
+Este repositório registra uma simulação acadêmica concluída como atividade final de um curso da IBM sobre Agile e Scrum. O exercício praticou histórias de usuário, critérios de aceitação em Gherkin, organização de backlog, estimativas e planejamento simulado de Sprint com GitHub e ZenHub. É um registro de estudo: não contém software funcional, não é material oficial nem endossado pela IBM e não comprova experiência profissional em produção.
+
+Autor do exercício: Caio Viana (@PIRAMIDEXYZ).
+
+O repositório está público para consulta como registro do exercício. Não é oferecido sob uma licença aberta de reutilização. A visualização e os forks no GitHub continuam sujeitos aos termos da plataforma; outros usos devem ser autorizados pelo titular.
+
+### Nota sobre o quadro ZenHub
+A distribuição de issues descrita neste README é uma fotografia da simulação registrada em 14/11/2026. Na consulta de 15/11/2026, o Work Tracker mostrou 0 issues em todas as colunas; portanto, a tabela histórica não representa o estado atual confirmado do quadro.
