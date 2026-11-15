@@ -13,7 +13,7 @@ de uma Sprint.
 
 ## Backlog simulado
 
-O backlog contém dez issues abertas, em português e na ordem dos requisitos:
+O backlog foi registrado em dez issues, em português e na ordem dos requisitos. Em 15/11/2026, todas foram encerradas no GitHub com o motivo `Not planned`, concluindo o exercício de planejamento — não a implementação do produto.
 
 1. Criar produto
 2. Recuperar produto
@@ -60,9 +60,8 @@ colunas do ZenHub não alteram o estado das issues no GitHub.
 | **Review/QA** | Revisão / garantia de qualidade | Nenhuma | Coluna vazia na simulação |
 | **Done** | Concluído | #1, #2 | Concluído **somente no quadro simulado** |
 
-Todas as dez issues continuam **abertas no GitHub** e atribuídas a `PIRAMIDEXYZ`,
-inclusive #1 e #2 que aparecem em **Done**. Essa posição é uma simulação de quadro
-e não significa que as issues foram fechadas ou que o software tenha sido
+Todas as dez issues continuam **encerradas no GitHub (Not planned)** e atribuídas a `PIRAMIDEXYZ`,
+inclusive #1 e #2 que aparecem em **Done**. A coluna Done registra apenas o quadro simulado em 14/11/2026; isso não comprova que o software tenha sido
 implementado.
 
 ### Pontos planejados e burndown
@@ -80,7 +79,7 @@ A estimativa planejada para a Sprint é de **10 pontos**:
 O burndown nativo usa **Done** como *burn pipeline*: **5 pontos completos**, **5
 pontos restantes** e **10 pontos no total**. Em quantidade de issues, **2 de 4**
 foram concluídas apenas na simulação do quadro; as quatro issues da Sprint (#1 a
-#4) continuam abertas no GitHub.
+#4) foram posteriormente encerradas no GitHub como “Not planned”.
 
 ### Links do workspace ZenHub
 
